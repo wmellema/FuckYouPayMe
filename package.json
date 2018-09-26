@@ -1,0 +1,29 @@
+{
+  "name": "fuckyoupayme",
+  "version": "1.0.0",
+  "description": "Dialog creator for frustrated web-developers",
+  "main": "dist/bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmellema/FuckYouPayMe.git"
+  },
+  "author": "Wouter Mellema",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmellema/FuckYouPayMe/issues"
+  },
+  "homepage": "https://github.com/wmellema/FuckYouPayMe#readme",
+  "dependencies": {
+    "micromodal": "^0.3.2"
+  },
+  "devDependencies": {
+    "css-loader": "^1.0.0",
+    "html-loader": "^0.5.5",
+    "style-loader": "^0.23.0",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.1"
+  }
+}
