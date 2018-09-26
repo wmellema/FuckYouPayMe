@@ -1,6 +1,6 @@
 {
   "name": "fuckyoupayme",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Dialog creator for frustrated web-developers",
   "main": "dist/bundle.js",
   "scripts": {
